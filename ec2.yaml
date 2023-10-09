@@ -31,7 +31,7 @@
     region: ap-south-1
     security_group: ec2-security-group
     tag_name:
-      Name: Aj-ec2   
+      Name: raghu-2048   
 
   tasks:
     - name: Create a security group
